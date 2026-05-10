@@ -1,8 +1,8 @@
-### executive director @ Volta NYC | Stuyvesant '27
+### executive director @ Volta NYC | stuyvesant '27
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achxn28&show_icons=true&theme=visual_studio_code" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achxn28&layout=compact&theme=visual_studio_code" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=achxn28&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achxn28&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
@@ -38,7 +38,7 @@
 
 ### coding activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=achxn28&theme=visual_studio_code" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=achxn28&theme=react" alt="WakaTime Stats" />
 </p>
 
 ---
