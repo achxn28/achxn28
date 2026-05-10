@@ -5,8 +5,8 @@
     <strong>executive director @ volta nyc | stuyvesant '27</strong>
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=achxn28&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achxn28&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=achxn28&show_icons=true&theme=react&border_radius=10&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achxn28&layout=compact&theme=react&border_radius=10&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ---
