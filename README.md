@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56ab2f,100:a8e063&height=200&section=header&text=andrew%20chin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=executive%20director%20%7C%20swe&descAlignY=58&descSize=16&animation=fadeIn" alt="andrew chin banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8ff78,100:78ffd6&height=200&section=header&text=andrew%20chin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=executive%20director%20%7C%20swe&descAlignY=58&descSize=16&animation=fadeIn" alt="andrew chin banner" />
 </div>
 
 <br />
@@ -8,7 +8,8 @@
   <a href="mailto:achin08@stuy.edu"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/andrew-chin"><img src="https://img.shields.io/badge/linkedin%3A-andrew_chin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://voltanyc.org"><img src="https://img.shields.io/badge/volta_nyc-blue?style=flat-square&logo=web&logoColor=white" /></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fachxn28&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true" alt="profile views" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=achxn28&style=flat-square&color=79C83D&label=views" alt="profile views" />
 </div>
 
 <br />
@@ -22,12 +23,15 @@
 ### experience
 
 **executive director — [volta nyc](https://voltanyc.org)**
+
 expanded organization to 300+ students supporting 100+ local businesses. managed creation & deployment of 70+ websites.
 
 **[google code next & team edge](https://codenext.withgoogle.com/)**
+
 advanced comp sci and soft dev programs building full-stack web dev app & pitching solutions to google swes.
 
 **software — [frc 694 stuypulse](https://stuypulse.com/)**
+
 robot code, regional wins, mentored 20+ members.
 
 ---
