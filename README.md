@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8ff78,100:78ffd6&height=200&section=header&text=andrew%20chin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=executive%20director%20%7C%20swe&descAlignY=58&descSize=16&animation=fadeIn" alt="andrew chin banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9DC183&height=200&section=header&text=andrew%20chin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=executive%20director%20%7C%20swe&descAlignY=58&descSize=16&animation=fadeIn" alt="andrew chin banner" />
 </div>
 
 <br />
@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/andrew-chin"><img src="https://img.shields.io/badge/linkedin%3A-andrew_chin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://voltanyc.org"><img src="https://img.shields.io/badge/volta_nyc-blue?style=flat-square&logo=web&logoColor=white" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=achxn28&style=flat-square&color=79C83D&label=views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=achxn28&style=flat-square&color=9DC183&label=views" alt="profile views" />
 </div>
 
 <br />
@@ -50,4 +50,16 @@ robot code, regional wins, mentored 20+ members.
   <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
+
+---
+
+### activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achxn28&bg_color=0d1117&color=9DC183&line=9DC183&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9DC183&height=100&section=footer" width="100%" alt="footer wave" />
 </div>
