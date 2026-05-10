@@ -12,10 +12,10 @@
 ---
 
 ### about me
-- expanding **volta nyc** to support over 100 local businesses with over 300 students
-- **usaco gold**
-- **stuypulse** (FRC 694)
-- **google code next + team edge**
+- expanding <img src="https://img.shields.io/badge/VOLTA-86BC25?style=flat-square&logoColor=white" /> to support over 100 local businesses with over 300 students
+- <img src="https://img.shields.io/badge/USACO_GOLD-FFD700?style=flat-square&logoColor=black" /> 
+- <img src="https://img.shields.io/badge/STUY-EE3124?style=flat-square" /><img src="https://img.shields.io/badge/PULSE-ffffff?style=flat-square&logoColor=black" /> (FRC 694)
+- <img src="https://img.shields.io/badge/G-4285F4?style=flat-square" /><img src="https://img.shields.io/badge/o-EA4335?style=flat-square" /><img src="https://img.shields.io/badge/o-FBBC05?style=flat-square" /><img src="https://img.shields.io/badge/g-4285F4?style=flat-square" /><img src="https://img.shields.io/badge/l-34A853?style=flat-square" /><img src="https://img.shields.io/badge/e-EA4335?style=flat-square" /> **Code Next** + **Team Edge**
 
 ### languages and tools
 **programming languages**
