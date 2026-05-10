@@ -1,6 +1,6 @@
 <div align="center">
   <h1>andrew chin</h1>
-  <p>executive director | software developer</p>
+  <p>executive director | swe</p>
   
   <a href="mailto:achin08@stuy.edu"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/andrew-chin"><img src="https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -17,13 +17,13 @@
 
 ### experience
 
-**executive director — [volta nyc](https://voltanyc.org)**
+**executive director — [volta nyc](https://voltanyc.org) —**
 expanded organization to 300+ students supporting 100+ local businesses. managed creation & deployment of 70+ websites.
 
 **google code next & team edge**
 advanced comp sci and soft dev programs building full-stack web dev app & pitching solutions to google swes
 
-**software — [frc 694 stuypulse](https://stuypulse.com/)**
+**software — [frc 694 stuypulse](https://stuypulse.com/) —**
 robot code, regional wins, mentored 20+ members
 
 **usaco gold**
