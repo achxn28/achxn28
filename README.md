@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1e1e1e/ffffff?text=andrew+chin" alt="andrew chin banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=andrew%20chin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=executive%20director%20%7C%20swe&descAlignY=58&descSize=16&animation=fadeIn" alt="andrew chin banner" />
 </div>
 
 <br />
