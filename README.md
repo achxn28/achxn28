@@ -12,7 +12,7 @@
 ---
 
 ### about me
-- expanding **维持 nyc** to support over 100 local businesses with over 300 students
+- expanding **volta nyc** to support over 100 local businesses with over 300 students
 - **usaco gold**
 - **stuypulse** (FRC 694)
 - **google code next + team edge**
