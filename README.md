@@ -1,50 +1,47 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=b19cd9&height=120&section=header&text=Andrew%20Chin&fontSize=50&fontColor=ffffff" />
-
-  <p align="center">
-    <strong>executive director @ volta nyc | stuyvesant '27</strong>
-  </p>
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=achxn28&show_icons=true&theme=react&border_radius=10&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=achxn28&layout=compact&theme=react&border_radius=10&cache_seconds=1800" alt="Top Languages" />
+  <h1>andrew chin</h1>
+  <p>executive director | software developer</p>
+  
+  <a href="mailto:achin08@stuy.edu"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/andrew-chin"><img src="https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://voltanyc.org"><img src="https://img.shields.io/badge/volta_nyc-blue?style=flat-square&logo=web&logoColor=white" /></a>
 </div>
 
----
+<br />
 
-### about me
-- expanding <img src="https://img.shields.io/badge/VOLTA-86BC25?style=flat-square&logoColor=white" /> to support over 100 local businesses with over 300 students
-- <img src="https://img.shields.io/badge/G-4285F4?style=flat-square" /><img src="https://img.shields.io/badge/o-EA4335?style=flat-square" /><img src="https://img.shields.io/badge/o-FBBC05?style=flat-square" /><img src="https://img.shields.io/badge/g-4285F4?style=flat-square" /><img src="https://img.shields.io/badge/l-34A853?style=flat-square" /><img src="https://img.shields.io/badge/e-EA4335?style=flat-square" /> **Code Next** + **Team Edge**
-- <img src="https://img.shields.io/badge/STUY-EE3124?style=flat-square" /><img src="https://img.shields.io/badge/PULSE-ffffff?style=flat-square&logoColor=black" /> (FRC 694)
-- <img src="https://img.shields.io/badge/USACO_GOLD-FFD700?style=flat-square&logoColor=black" /> 
-
-### languages and tools
-**programming languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**frameworks and libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-### activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achxn28&bg_color=20232a&color=b19cd9&line=b19cd9&point=ffffff&area=true&hide_border=true" width="100%" />
+  junior at stuyvesant hs, nyc • <a href="https://github.com/Volta-NYC">volta-nyc</a> • <a href="https://github.com/stuypulse">stuypulse</a>
 </p>
 
 ---
 
-### connect with me
-<p align="left">
-<a href="mailto:achin08@stuy.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/andrew-chin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://voltanyc.org"><img src="https://img.shields.io/badge/Volta_NYC-blue?style=for-the-badge&logo=web&logoColor=white" /></a>
-</p>
+### experience
+
+**executive director — [volta nyc](https://voltanyc.org)**
+expanded organization to 300+ students supporting 100+ local businesses. managed creation & deployment of 70+ websites.
+
+**google code next & team edge**
+advanced comp sci and soft dev programs building full-stack web dev app & pitching solutions to google swes
+
+**software — [frc 694 stuypulse](https://stuypulse.com/)**
+robot code, regional wins, mentored 20+ members
+
+**usaco gold**
+
+---
+
+### stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
