@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1e1e1e/ffffff?text=Andrew+Chin" alt="Andrew Chin Banner" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fachxn28&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views" />
+  <img src="https://via.placeholder.com/800x200/1e1e1e/ffffff?text=andrew+chin" alt="andrew chin banner" width="100%" />
 </div>
 
 <br />
@@ -15,8 +9,9 @@
   <p>executive director | swe</p>
   
   <a href="mailto:achin08@stuy.edu"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/andrew-chin"><img src="https://img.shields.io/badge/andrew_chin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/andrew-chin"><img src="https://img.shields.io/badge/linkedin%3A-andrew_chin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://voltanyc.org"><img src="https://img.shields.io/badge/volta_nyc-blue?style=flat-square&logo=web&logoColor=white" /></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fachxn28&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true" alt="profile views" />
 </div>
 
 <br />
@@ -35,7 +30,7 @@
 
 **software — [frc 694 stuypulse](https://stuypulse.com/)** robot code, regional wins, mentored 20+ members.
 
-**usaco gold** ---
+---
 
 ### stack
 
