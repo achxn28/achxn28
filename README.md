@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/render?type=soft&color=b19cd9&height=120&section=header&text=Andrew%20Chin&fontSize=50&fontColor=ffffff" />
 
   <p align="center">
-    <strong>executive director @ Volta NYC | stuyvesant '27</strong>
+    <strong>executive director @ volta nyc | stuyvesant '27</strong>
   </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=achxn28&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
@@ -12,10 +12,10 @@
 ---
 
 ### about me
-- expanding **Volta NYC** to support over 100 local businesses with over 300 students
-- **USACO Gold**
-- **StuyPulse** (FRC 694)
-- **Google Code Next && Team Edge**
+- expanding **维持 nyc** to support over 100 local businesses with over 300 students
+- **usaco gold**
+- **stuypulse** (FRC 694)
+- **google code next + team edge**
 
 ### languages and tools
 **programming languages**
@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 **frameworks and libraries**
@@ -38,7 +37,7 @@
 
 ### activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=achxn28&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achxn28&bg_color=20232a&color=b19cd9&line=b19cd9&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
