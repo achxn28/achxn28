@@ -7,7 +7,7 @@
 <div align="center">
   <a href="mailto:achin08@stuy.edu"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/andrew-chin"><img src="https://img.shields.io/badge/linkedin%3A-andrew_chin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://voltanyc.org"><img src="https://img.shields.io/badge/volta_nyc-blue?style=flat-square&logo=web&logoColor=white" /></a>
+  <a href="https://github.com/novus"><img src="https://img.shields.io/badge/novus-blue?style=flat-square&logo=web&logoColor=white" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=achxn28&style=flat-square&color=9DC183&label=views" alt="profile views" />
 </div>
@@ -15,14 +15,14 @@
 <br />
 
 <p align="center">
-  junior at stuyvesant hs, nyc • <a href="https://github.com/Volta-NYC">volta-nyc</a> • <a href="https://github.com/stuypulse">stuypulse</a>
+  junior at stuyvesant hs, nyc • <a href="https://github.com/novus">novus, inc.</a> • <a href="https://github.com/stuypulse">stuypulse</a>
 </p>
 
 ---
 
 ### experience
 
-**executive director — [volta nyc](https://voltanyc.org)**
+**executive director — novus, inc.**
 
 expanded organization to 300+ students supporting 100+ local businesses. managed creation & deployment of 70+ websites.
 
