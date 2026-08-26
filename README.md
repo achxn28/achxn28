@@ -7,7 +7,7 @@
 <div align="center">
   <a href="mailto:achin08@stuy.edu"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/andrew-chin"><img src="https://img.shields.io/badge/linkedin%3A-andrew_chin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/novus"><img src="https://img.shields.io/badge/novus-blue?style=flat-square&logo=web&logoColor=white" /></a>
+  <a href="https://github.com/Volta-NYC"><img src="https://img.shields.io/badge/novus-blue?style=flat-square&logo=web&logoColor=white" /></a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=achxn28&style=flat-square&color=F2A687&label=views" alt="profile views" />
 </div>
