@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9DC183&height=200&section=header&text=andrew%20chin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=executive%20director%20%7C%20swe&descAlignY=58&descSize=16&animation=fadeIn" alt="andrew chin banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F2A687&height=200&section=header&text=andrew%20chin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=executive%20director%20%7C%20swe&descAlignY=58&descSize=16&animation=fadeIn" alt="andrew chin banner" />
 </div>
 
 <br />
@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/andrew-chin"><img src="https://img.shields.io/badge/linkedin%3A-andrew_chin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/novus"><img src="https://img.shields.io/badge/novus-blue?style=flat-square&logo=web&logoColor=white" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=achxn28&style=flat-square&color=9DC183&label=views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=achxn28&style=flat-square&color=F2A687&label=views" alt="profile views" />
 </div>
 
 <br />
@@ -61,5 +61,5 @@ robot code, regional wins, mentored 20+ members.
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9DC183&height=100&section=footer" width="100%" alt="footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F2A687&height=100&section=footer" width="100%" alt="footer wave" />
 </div>
