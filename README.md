@@ -24,7 +24,8 @@
 
 **executive director — novus, inc.**
 
-expanded organization to 300+ students supporting 100+ local businesses. managed creation & deployment of 70+ websites.
+expanded organization to 450+ students supporting 230+ local businesses. managed creation & deployment of 200+ websites.
+work with nyc sbs, sbrn, 5 borough's chamber of commerce, 24 bids.
 
 **[google code next & team edge](https://codenext.withgoogle.com/)**
 
