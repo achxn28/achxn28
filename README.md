@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F2A687&height=200&section=header&text=andrew%20chin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=executive%20director%20%7C%20swe&descAlignY=58&descSize=16&animation=fadeIn" alt="andrew chin banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F2A687&height=200&section=header&text=andrew%20chin&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=founder%20%7C%20swe&descAlignY=58&descSize=16&animation=fadeIn" alt="andrew chin banner" />
 </div>
 
 <br />
@@ -15,7 +15,7 @@
 <br />
 
 <p align="center">
-  junior at stuyvesant hs, nyc • <a href="https://github.com/novus">novus, inc.</a> • <a href="https://github.com/stuypulse">stuypulse</a>
+  senior at stuyvesant hs, nyc • <a href="https://github.com/novus">novus nyc</a> • <a href="https://github.com/stuypulse">stuypulse</a>
 </p>
 
 ---
