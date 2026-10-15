@@ -58,7 +58,7 @@ robot code, regional wins, mentored 20+ members.
 ### activity
 
 <div align="center">
-  <img src="assets/contribution-snake.svg" width="100%" alt="Snake eating my GitHub contributions" />
+  <img src="assets/contribution-snake-orange.svg" width="100%" alt="Snake eating my GitHub contributions" />
 </div>
 
 <div align="center">
