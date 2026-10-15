@@ -58,7 +58,7 @@ robot code, regional wins, mentored 20+ members.
 ### activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=achxn28&bg_color=0d1117&color=9DC183&line=9DC183&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
+  <img src="assets/contribution-snake.svg" width="100%" alt="Snake eating my GitHub contributions" />
 </div>
 
 <div align="center">
