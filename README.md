@@ -22,9 +22,9 @@
 
 ### experience
 
-**executive director — novus, inc.**
+**founder & executive director — novus, inc.**
 
-expanded organization to 450+ students supporting 230+ local businesses. managed creation & deployment of 200+ websites.
+expanded organization to 600+ students supporting 300+ small businesses. managed creation & deployment of 250+ websites reaching 300,000+ monthly visitors.
 work with nyc sbs, sbrn, 5 borough's chamber of commerce, 24 bids.
 
 **[google code next & team edge](https://codenext.withgoogle.com/)**
