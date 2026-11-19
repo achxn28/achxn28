@@ -60,10 +60,8 @@ robot code, regional wins, mentored 20+ members.
 <p align="center">
   <img src="https://raw.githubusercontent.com/achxn28/github-stats/generated/badges/years.svg" alt="Years on GitHub" />
   <img src="https://raw.githubusercontent.com/achxn28/github-stats/generated/badges/repos.svg" alt="Owned repositories" />
-  <img src="https://raw.githubusercontent.com/achxn28/github-stats/generated/badges/gists.svg" alt="Public gists" />
   <img src="https://raw.githubusercontent.com/achxn28/github-stats/generated/badges/contributions.svg" alt="All-time contributions" />
   <img src="https://raw.githubusercontent.com/achxn28/github-stats/generated/badges/commits.svg" alt="All-time commit contributions" />
-  <img src="https://raw.githubusercontent.com/achxn28/github-stats/generated/badges/issues.svg" alt="All-time issues opened" />
   <img src="https://raw.githubusercontent.com/achxn28/github-stats/generated/badges/prs.svg" alt="All-time pull requests opened" />
 </p>
 
