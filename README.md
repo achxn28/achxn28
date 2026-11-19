@@ -55,6 +55,17 @@ robot code, regional wins, mentored 20+ members.
 
 ---
 
+### github stats
+
+<p align="center">
+  <img src="https://github.com/achxn28/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub statistics" width="48%" />
+  <img src="https://github.com/achxn28/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub statistics" width="48%" />
+  <img src="https://github.com/achxn28/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Top languages" width="48%" />
+  <img src="https://github.com/achxn28/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Top languages" width="48%" />
+</p>
+
+---
+
 ### activity
 
 <div align="center">
