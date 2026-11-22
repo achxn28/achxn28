@@ -22,16 +22,16 @@
 
 ### experience
 
-**founder & executive director — novus, inc.**
+**founder & executive director — [novus nyc](https://novusnyc.org/)**
 
 expanded organization to 600+ students supporting 300+ small businesses. managed creation & deployment of 250+ websites reaching 300,000+ monthly visitors.
 work with nyc sbs, sbrn, 5 borough's chamber of commerce, 24 bids.
 
-**[google code next & team edge](https://codenext.withgoogle.com/)**
+**[google code next & team edge]**
 
 advanced comp sci and soft dev programs building full-stack web dev app & pitching solutions to google swes.
 
-**software — [frc 694 stuypulse](https://stuypulse.com/)**
+**software — [frc 694 stuypulse]**
 
 robot code, regional wins, mentored 20+ members.
 
