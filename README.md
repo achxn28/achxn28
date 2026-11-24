@@ -74,22 +74,24 @@ robot code, regional wins, mentored 20+ members.
 
 ---
 
-### recent languages
+<h3 align="center">recent languages</h3>
 
-my commits in public pushes from the last 14 days. percentages reflect lines added and removed.
+<p align="center">my commits in public pushes from the last 14 days. percentages reflect lines added and removed.</p>
 
 <!-- RECENT-LANGUAGES:START -->
-```text
-JSON         +9.0k /     -0 █████████████▊░░░░ 74.56%
+<table align="center">
+<tr><td>
+<pre>JSON         +9.0k /     -0 █████████████▊░░░░ 74.56%
 TypeScript   +2.0k /   -501 ███▊░░░░░░░░░░░░░░ 20.38%
 CSS           +252 /    -87 ▊░░░░░░░░░░░░░░░░░  2.80%
 Markdown      +170 /    -42 ▊░░░░░░░░░░░░░░░░░  1.75%
 SVG            +17 /    -15 ░░░░░░░░░░░░░░░░░░  0.26%
-JavaScript     +28 /     -0 ░░░░░░░░░░░░░░░░░░  0.23%
-```
+JavaScript     +28 /     -0 ░░░░░░░░░░░░░░░░░░  0.23%</pre>
+</td></tr>
+</table>
 <!-- RECENT-LANGUAGES:END -->
 
-<sub>updated daily with <a href="https://github.com/liby/recent-languages-box">recent-languages-box</a> · limited to github's latest 300 public events</sub>
+<p align="center"><sub>updated daily with <a href="https://github.com/liby/recent-languages-box">recent-languages-box</a> · limited to github's latest 300 public events</sub></p>
 
 ---
 

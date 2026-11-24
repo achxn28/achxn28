@@ -130,7 +130,8 @@ export function replaceReadmeSection(readme, content) {
   if (start < 0 || end < start || readme.indexOf(START, start + START.length) >= 0 || readme.indexOf(END, end + END.length) >= 0) {
     throw new Error('README must contain one matching pair of recent-language markers.');
   }
-  return `${readme.slice(0, start + START.length)}\n\`\`\`text\n${content.trimEnd()}\n\`\`\`\n${readme.slice(end)}`;
+  const escapedContent = content.trimEnd().replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
+  return `${readme.slice(0, start + START.length)}\n<table align="center">\n<tr><td>\n<pre>${escapedContent}</pre>\n</td></tr>\n</table>\n${readme.slice(end)}`;
 }
 
 export async function updateReadme(readmePath, content) {
