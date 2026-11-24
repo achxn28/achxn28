@@ -74,6 +74,20 @@ robot code, regional wins, mentored 20+ members.
 
 ---
 
+### recent languages
+
+my commits in public pushes from the last 14 days. percentages reflect lines added and removed.
+
+<!-- RECENT-LANGUAGES:START -->
+```text
+Statistics will appear after the first workflow run.
+```
+<!-- RECENT-LANGUAGES:END -->
+
+<sub>updated daily with <a href="https://github.com/liby/recent-languages-box">recent-languages-box</a> · limited to github's latest 300 public events</sub>
+
+---
+
 ### activity
 
 <div align="center">

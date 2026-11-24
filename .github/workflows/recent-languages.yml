@@ -1,0 +1,65 @@
+name: Update recent languages
+
+on:
+  schedule:
+    - cron: "17 7 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/recent-languages.yml
+      - .github/scripts/update-recent-languages.mjs
+
+permissions:
+  contents: write
+
+# Serialize profile writes with the existing contribution snake workflow.
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+
+      - name: Check out Recent Languages Box
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          repository: liby/recent-languages-box
+          ref: 8f81897143b43492260bbca26a278fa173a915ae
+          path: .recent-languages-box
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: 24
+
+      - name: Install GitHub Linguist
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev libssl-dev ruby-dev
+          sudo gem install github-linguist --version 9.7.0 --no-document
+
+      - name: Update README language statistics
+        run: node .github/scripts/update-recent-languages.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
+          USERNAME: ${{ github.repository_owner }}
+          RECENT_LANGUAGES_SOURCE: ${{ github.workspace }}/.recent-languages-box
+
+      - name: Save updated statistics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: update recent language stats"
+          git push origin HEAD:main
