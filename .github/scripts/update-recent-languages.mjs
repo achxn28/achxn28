@@ -4,6 +4,7 @@ import { tmpdir } from 'node:os';
 import { join, resolve } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { promisify } from 'node:util';
+import { setTimeout as sleep } from 'node:timers/promises';
 
 const run = promisify(execFile);
 const START = '<!-- RECENT-LANGUAGES:START -->';
@@ -11,16 +12,65 @@ const END = '<!-- RECENT-LANGUAGES:END -->';
 const EMPTY = 'No recent public coding activity.';
 const unavailable = (error) => [404, 409, 410, 422].includes(error.status);
 
-export async function githubRequest(route, { token, fetchImpl = fetch } = {}) {
+export async function githubRequest(route, { token, fetchImpl = fetch, sleepImpl = sleep } = {}) {
   const headers = { Accept: 'application/vnd.github+json' };
   if (token) headers.Authorization = `Bearer ${token}`;
-  const response = await fetchImpl(`https://api.github.com${route}`, { headers });
-  if (!response.ok) {
-    throw Object.assign(new Error(`GitHub returned ${response.status} for ${route}`), {
+  const maxAttempts = 4;
+  const pause = async (delay, attempt, reason) => {
+    console.warn(`GitHub request ${attempt}/${maxAttempts} failed for ${route}: ${reason}. Retrying in ${delay / 1000}s.`);
+    await sleepImpl(delay);
+  };
+
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    let response;
+    let delay = 1000 * 2 ** (attempt - 1);
+    try {
+      response = await fetchImpl(`https://api.github.com${route}`, {
+        headers,
+        signal: AbortSignal.timeout(30_000),
+      });
+      if (response.ok) return await response.json();
+    } catch (error) {
+      const retryable = error instanceof TypeError || ['TimeoutError', 'AbortError'].includes(error.name);
+      if (!retryable || attempt === maxAttempts) {
+        const detail = error.cause?.code || error.message;
+        throw new Error(`GitHub request failed for ${route} after ${attempt} attempts: ${detail}`, { cause: error });
+      }
+      await pause(delay, attempt, error.message);
+      continue;
+    }
+
+    const error = Object.assign(new Error(`GitHub returned ${response.status} for ${route}`), {
       status: response.status,
     });
+    const retryAfter = response.headers?.get('retry-after');
+    const remaining = response.headers?.get('x-ratelimit-remaining');
+    let retryAfterDelay;
+    if (retryAfter) {
+      const seconds = Number(retryAfter);
+      retryAfterDelay = Number.isFinite(seconds)
+        ? seconds * 1000
+        : Date.parse(retryAfter) - Date.now();
+    }
+    const hasRetryAfter = Number.isFinite(retryAfterDelay) && retryAfterDelay >= 0;
+    const rateLimited = response.status === 429 || (response.status === 403 && (hasRetryAfter || remaining === '0'));
+    const retryable = rateLimited || response.status === 408 || (response.status >= 500 && response.status <= 599);
+    if (!retryable || attempt === maxAttempts) throw error;
+
+    if (hasRetryAfter) {
+      delay = retryAfterDelay;
+    } else if (rateLimited) {
+      const reset = Number(response.headers?.get('x-ratelimit-reset')) * 1000;
+      delay = remaining === '0' && reset > 0
+        ? Math.max(0, reset - Date.now())
+        : 60_000 * 2 ** (attempt - 1);
+    }
+    if (delay > 60_000) {
+      error.message += '; required retry delay exceeds 60 seconds';
+      throw error;
+    }
+    await pause(delay, attempt, `HTTP ${response.status}`);
   }
-  return response.json();
 }
 
 export async function fetchPushCommits(event, request) {

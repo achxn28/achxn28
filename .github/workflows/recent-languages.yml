@@ -10,6 +10,7 @@ on:
     paths:
       - .github/workflows/recent-languages.yml
       - .github/scripts/update-recent-languages.mjs
+      - .github/scripts/update-recent-languages.test.mjs
 
 permissions:
   contents: write
@@ -41,6 +42,9 @@ jobs:
         uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
         with:
           node-version: 24
+
+      - name: Test GitHub request retries
+        run: node --test .github/scripts/update-recent-languages.test.mjs
 
       - name: Install GitHub Linguist
         run: |
