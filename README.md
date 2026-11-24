@@ -72,6 +72,10 @@ robot code, regional wins, mentored 20+ members.
   <img src="https://github.com/achxn28/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Top languages" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/achxn28/github-stats/generated/github-metrics.svg" alt="GitHub profile metrics, languages, and contribution calendars" width="100%" />
+</p>
+
 ---
 
 <h3 align="center">recent languages</h3>
